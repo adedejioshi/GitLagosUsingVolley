@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GitLagosUsingVolley</string>
+    <string name="share">SHARE</string>
+    <string name="info">User Info:</string>
+    <string name="error">Connection error...</string>
+    <string name="empty">No Internet connection</string>
+    <string name="refresh">Refresh</string>
+</resources>
